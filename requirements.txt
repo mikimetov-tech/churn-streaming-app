@@ -1,5 +1,0 @@
-app.py
-rf_model.pkl
-feature_columns.json
-requirements.txt
-.gitattributes
